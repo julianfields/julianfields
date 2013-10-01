@@ -3,19 +3,21 @@
   <head>
     <meta charset="utf-8" />
     <meta http-equiv='X-UA-Compatible' content='IE=edge;chrome=1' />
+    <link href='http://fonts.googleapis.com/css?family=Yesteryear' rel='stylesheet' type='text/css'>
     <%= stylesheet_link_tag "all" %>
   </head>
   <body>
-    <div class="row">
-      <div class="large-12 columns">
-        <H1> It's The Juice </H1>
+    <div class="hero">
+      <header>
+        <H1>eastwind</H1>
         <hr/>
-
-      </div>
+        <h2>Long live the search</h2>
+      </header>
+      <img src="/images/maldives-blue.jpg" alt="Photo of the Maldives"/>
     </div>
-    
+
     <div class="row">
-      <div class="large-9 columns">
+      <div class="large-9 columns large-centered">
         <%= yield %>
         <hr/>
         <h3>Recent Articles</h3>
@@ -25,17 +27,7 @@
           <% end %>
         </ol>
       </div>
-    
-      <aside class="large-3 columns">
 
-        <h4>Tags</h4>
-        <ul class="side-nav">
-          <% blog.tags.each do |tag, articles| %>
-            <li><a href="#{tag_path(tag)}"%><%= tag %> (<%= articles.size %>)</a></li>
-          <% end %>
-        </ul>
-
-      </aside>
     </div>
   </body>
 </html>

@@ -29,7 +29,7 @@ $em-base: 16px !default;
 
 /*$body-bg: $light;*/
 /*$body-font-color: $black;*/
-/*$body-font-family: "Open Sans", sans-serif;*/
+$body-font-family: "adelle", serif;
 /*$body-font-weight: 400;*/
 // $body-font-style: normal;
 
@@ -138,7 +138,7 @@ $em-base: 16px !default;
 // Heading font sizes
 
 /*$h1-font-size: emCalc(44px);*/
-/*$h2-font-size: emCalc(37px);*/
+$h2-font-size: emCalc(45px);
 /*$h3-font-size: emCalc(27px);*/
 /*$h4-font-size: emCalc(23px);*/
 /*$h5-font-size: emCalc(18px);*/
@@ -161,8 +161,8 @@ $em-base: 16px !default;
 
 // $paragraph-font-family: inherit;
 // $paragraph-font-weight: normal;
-// $paragraph-font-size: 1em;
-// $paragraph-line-height: 1.6;
+ $paragraph-font-size: 1.4em;
+ $paragraph-line-height: 1.6;
 // $paragraph-margin-bottom: emCalc(20px);
 // $paragraph-aside-font-size: emCalc(14px);
 // $paragraph-aside-line-height: 1.35;

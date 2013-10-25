@@ -1,7 +1,9 @@
 ---
-title: Fall Is Here
+title: eastwind
 date: 2013-09-25
 tags: example, tag
+post_image_url:  "/images/maldives-blue.jpg"
+subtitle:  "Long live the search"
 ---
 
 I've never been much of a believer in luck.  More recently I've been

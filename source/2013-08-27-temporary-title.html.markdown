@@ -1,10 +1,9 @@
 ---
-title: Happy Birthday Dad
+title: Happy Day
 date: 2013-08-27
 tags: example, tag
 ---
-
-HAPPY BIRTDAY DAD
+:
 
 A very Happy Birthday to my father David Fields.  A legend in his own
 right.  My dad is an adventurer to start. his stories of travel started

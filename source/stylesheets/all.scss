@@ -8,6 +8,7 @@
 /* Settings & overrides
 ============================================================ */
 @import "settings";
+@import "icon-fonts";
 body {
   background-color: #ebebeb;
 }
@@ -15,6 +16,7 @@ body {
 .hero {
   position: relative;
   opacity: 0;
+  margin-bottom: 30px;
   -webkit-animation:fadeIn ease-in .5s;
   -moz-animation:fadeIn ease-in .5s;
   -o-animation:fadeIn ease-in .5s;
@@ -60,10 +62,24 @@ body {
   }
 }
 
+.pagination {
+  text-align: center;
+  margin-bottom: 20px;
+  padding-top: 20px;
+  border-top: 1px solid #ccc;
+  a {
+    display: inline-block;
+    margin: 0 15px;
+  }
+}
+
 .footer {
   padding: 50px 0;
   background: #000;
-  color: #ebebeb;
+  color: #999;
+  p {
+    margin-bottom: 5px;
+  }
 }
 
 @-webkit-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }

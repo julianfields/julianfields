@@ -1,0 +1,40 @@
+/* font-face */
+@font-face {
+  font-family: "SocialFoundicons";
+  src: url("/fonts/social_foundicons.eot");
+  src: url("/fonts/social_foundicons.eot?#iefix") format("embedded-opentype"), url("/fonts/social_foundicons.woff") format("woff"), url("/fonts/social_foundicons.ttf") format("truetype"), url("/fonts/social_foundicons.svg#SocialFoundicons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* global foundicon styles */
+[class*="foundicon-"] {
+  display: inline;
+  width: auto;
+  height: auto;
+  line-height: inherit;
+  vertical-align: baseline;
+  background-image: none;
+  background-position: 0 0;
+  background-repeat: repeat;
+}
+
+[class*="foundicon-"]:before {
+  font-family: "SocialFoundicons";
+  font-weight: normal;
+  color: #ebebeb;
+  font-size: 1.5em;
+  font-style: normal;
+  text-decoration: inherit;
+}
+
+.foundicon-instagram:before {
+  content: "\f015";
+}
+.foundicon-twitter:before {
+  content: "\f004";
+}
+.foundicon-facebook:before {
+  content: "\f003";
+}
+

@@ -28,10 +28,11 @@ body {
   header {
     position: absolute;
     text-align: center;
-    width: 430px;
-    left: 50%;
-    top: 50%;
-    margin-left: -215px;
+    top: 15em;
+    width: 100%;
+    h1, h2 {
+      text-shadow: 0 1px 3px rgba(0,0,0,0.5);
+    }
     h1 {
       font-size: 5em;
       color: #fff;
@@ -46,9 +47,6 @@ body {
       font-weight: normal;
       /*font-family: "Wisdom Script";*/
       font-family: 'Yesteryear', cursive;
-    }
-    hr {
-      margin: 0 0 10px 0;
     }
   }
   img {
@@ -89,13 +87,11 @@ body {
 
 @media screen and (max-width: 1170px) {
   .hero header {
-   top: 25%;
- }
+    top: 25%;
+  }
 }
 @media screen and (max-width: 750px) {
   .hero header {
-   width: 300px;
-   margin-left: -150px;
    h1 {
      font-size: 3.5em;
    }

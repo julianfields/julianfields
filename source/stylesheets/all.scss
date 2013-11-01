@@ -61,13 +61,52 @@ body {
 }
 
 .pagination {
-  text-align: center;
-  margin-bottom: 20px;
-  padding-top: 20px;
-  border-top: 1px solid #ccc;
+  position: fixed;
+  width: 100%;
+  top: 50%;
   a {
-    display: inline-block;
-    margin: 0 15px;
+    display: block;
+    line-height: 30px;
+    position: absolute;
+    background: rgba(0,0,0,0.5);
+    text-shadow: 0 1px 1px rgba(0,0,0,0.7);
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+    &.previous-page, &.next-page {
+      @include transition(all .3s);
+      &:before, &:after {
+        font-family: entypo, sans-serif;
+        width: 30px;
+        text-align: center;
+        display: inline-block;
+        color: #bbb;
+      }
+    }
+    &.previous-page {
+      @include border-right-radius(4px);
+      padding-right: 15px;
+      left: -130px;
+      &:hover {
+        left: 0;
+      }
+      &:after {
+        content: "\e765";
+        padding-left: 10px;
+      }
+    }
+    &.next-page {
+      @include border-left-radius(4px);
+      padding-left: 15px;
+      right: -103px;
+      &:hover {
+        right: 0;
+      }
+      &:before {
+        content: "\e766";
+        padding-right: 10px;
+      }
+    }
   }
 }
 

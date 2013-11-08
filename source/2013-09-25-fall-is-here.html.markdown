@@ -35,9 +35,9 @@ began asking questions.  These questions turned into conversations,
 which turned into more questions until finally, I bought a new computer, and began
 learning code. Michael agreed to be my mentor in the world of vim, terminals, ruby,
 rails, html, css and so much more.  Oh, and I was able to work out a deal
-that brougth me back to the family business to help with this
+that brought me back to the family business to help with this
 transition.  So, I must say, this is requiring work, and a bit of a plan,
-but the universe ulitimately listened to my request.  there is nothing
+but the universe ulitimately listened to my request.  There is nothing
 that can explain the timing at which Michael and I re-connected.  Or the
 the perfection at which things have come together.  I don't have any
 clue where this path will take me. I do know that it will be one heck of a

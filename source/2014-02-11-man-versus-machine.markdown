@@ -1,10 +1,8 @@
 ---
-title: eastwind
-date: 2013-09-25
+title: Man Versus Machine
+date: 2014-02-11
 tags: example, tag
 post_image_url:  "/images/maldives-blue.jpg"
-author: Julian Fields
-subtitle:  "Long live the search"
 ---
 
 I've never been much of a believer in luck.  More recently I've been
@@ -22,15 +20,13 @@ something I could really sink my teeth into, and ulitimately what I was
 hoping would be a natural transition was more like a kawaam!  "You need
 to find new work, today!"
 
-Several weeks went by, I looked for some new jobs, new careers paths.
+Several weeks went by, I looked for some new jobs, new career paths.
 I was getting very little traction.  I sat on my deck in the sun, asking
 big questions about direction, I asked for guidence, I had moments of
 craziness and frustration as well as long periods of silence and
 relaxation.  I stared for hours at paintings on my wall.  These painting
 were painted by a man named Michael Parenteau, who had recently moved back to Portand after nearly eight years in Ohio and
 North Carolina.
-
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in volupta
 
 Michael is an artist, who had learned to code and was now
 developing software.  Much like anyone who is interested in something, I

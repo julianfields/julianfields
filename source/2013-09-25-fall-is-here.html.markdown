@@ -30,7 +30,10 @@ relaxation.  I stared for hours at paintings on my wall.  These painting
 were painted by a man named Michael Parenteau, who had recently moved back to Portand after nearly eight years in Ohio and
 North Carolina.
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in volupta
+> "We are all on the endless search.  Waves, rythms, hymns, satsangs, sunrises and sunsets.
+I've spent many days looking around the next corner for waves of
+perfection, where winds are offshore, and in Oregon that would mean east
+winds."
 
 Michael is an artist, who had learned to code and was now
 developing software.  Much like anyone who is interested in something, I

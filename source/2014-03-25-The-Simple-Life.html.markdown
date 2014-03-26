@@ -7,10 +7,10 @@ author: Julian Fields
 ---
 
 Ever since I was a young boy I have been fascinated by traveling and
-exploring.  My grandfather on my dad side was the first Fields to
+exploring.  My grandfather on my dads side was the first Fields to
 travel to the Amazon.  My dad is there now and has been going to the
 Peruvian Amazon for a number of years.  I have been fortunate enough
-to join him on one ocasion.  
+to join him on one occasion.  
 
 It was no coincidence that I would become a surfer.  One of the earliest
 pictures of me was in Hawaii with a snorkel and mask in my underwear.
@@ -30,7 +30,7 @@ usually consists of some trunks, tees, a few books, sunscreen and some
 wax.  Oh, maybe an extra pair of sandals. 
 
 I've learned so much about myself and life in my travels.  Nothing
-really last, I rarely make it home with my boards in one piece.  People
+really lasts, I rarely make it home with my boards in one piece.  People
 all over the world are proud and charismatic.  Pride is a double edged
 sword, what I'm referring to is the natural love people have for where
 they call home.  Most importantly, I know that I can survive happily

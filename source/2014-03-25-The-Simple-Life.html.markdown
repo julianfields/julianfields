@@ -20,7 +20,7 @@ wetsuit.  The kind with a beaver tail and only covered your upper body.
 hardly enough to keep you warm in the 50 degree waters of Oregon, but as
 I recall it didn't stop me.
 
-Surfing and travel go hand in hand.  I rarely leave :w
+Surfing and travel go hand in hand.  I rarely leave
 the country without
 a board bag and I like it that way.  I prefer to travel to warm waters,
 having plenty of rubber and cold at home in Oregon.  One of my biggest

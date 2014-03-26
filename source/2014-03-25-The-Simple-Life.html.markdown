@@ -2,7 +2,7 @@
 title: The Simple Life
 date: 2014-03-25
 tags: example, tag
-post_image_url:  "/images/tropical-party-2.jpg"
+post_image_url:  "/images/tropical-party-3.jpg"
 author: Julian Fields
 ---
 

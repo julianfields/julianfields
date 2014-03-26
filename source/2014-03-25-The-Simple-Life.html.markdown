@@ -15,7 +15,7 @@ to join him on one ocassion.
 It was no coincidence that I would become a surfer.  One of the earliest
 pictures of me was in Hawaii with a snorkel and mask in my underwear.
 I used to swim in the mud puddles at the school up the street when I was
-a kid.  by the time I was 8 or 9 I had a boogie board and a funky old
+a kid.  By the time I was 8 or 9 I had a boogie board and a funky old
 wetsuit.  The kind with a beaver tail and only covered your upper body.
 hardly enough to keep you warm in the 50 degree waters of Oregon, but as
 I recall it didn't stop me.
@@ -31,8 +31,8 @@ wax.  Oh, maybe an extra pair of sandals.
 
 I've learned so much about myself and life in my travels.  Nothing
 really last, I rarely make it home with my boards in one piece.  People
-all over the world are proud and charismatic.  Pride is a double edge
-sword in what I'm referring to is the natural love people have for where
+all over the world are proud and charismatic.  Pride is a double edged
+sword and what I'm referring to is the natural love people have for where
 they call home.  Most importantly, I know that I can survive happily
 with only a bag of boards and clothes.  
 

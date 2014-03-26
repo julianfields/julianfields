@@ -42,7 +42,7 @@ complicated.  The rat race of American living tends to burn us out and
 leave us needing more coffee just to get through the day.  I prefer
 coffee in a hammock with a book waiting for the next swell to roll in.
 Of course it requires some sort of currency to keep this type of life
-going, and I'mm far from retired, but, I do believe that you can find
+going, and I'm far from retired, but, I do believe that you can find
 away to have balance and live a more simple life.  What do you think? 
 
 -JF

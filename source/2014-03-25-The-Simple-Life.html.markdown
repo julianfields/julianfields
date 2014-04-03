@@ -7,7 +7,7 @@ author: Julian Fields
 ---
 
 Ever since I was a young boy I have been fascinated by traveling and
-exploring.  My grandfather on my dads side was the first Fields to
+exploring.  My grandfather on my dad's side was the first Fields to
 travel to the Amazon.  My dad is there now and has been going to the
 Peruvian Amazon for a number of years.  I have been fortunate enough
 to join him on one occasion.  
@@ -43,7 +43,7 @@ leave us needing more coffee just to get through the day.  I prefer
 coffee in a hammock with a book waiting for the next swell to roll in.
 Of course it requires some sort of currency to keep this type of life
 going, and I'm far from retired. But, I do believe that you can find
-away to have balance and live a more simple life.  What do you think? 
+a way to have balance and live a more simple life.  What do you think? 
 
 -JF
  

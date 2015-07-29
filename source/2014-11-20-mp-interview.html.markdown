@@ -11,11 +11,11 @@ subtitle: Designer, Artist, Father
 and life.  Our relationship goes back nearly 20 years to when I was
 about 12 years old and he was 18 years old.  A random meeting brought him to my families farm in
 Newberg, Oregon.  We found a common interest in music, most notably The
-Grateful Dead.  Fast forward 20 years, and many travels later, our paths crossed again, still
+Grateful Dead.  Fast forward 20 years, and many travels later.  Our paths crossed again, still
 a love for the Dead, but now both working professionals.* 
 
 *Michael is the Creative Director at Cognitect, a software product and consulting
-company, he is also a painter, a husband and a father.  For the past two years
+company.  He is also a painter, a husband and a father.  For the past two years
 Michael's has been my mentor in design and coding.
 Here is our interview, I hope you enjoy!*
 

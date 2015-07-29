@@ -21,7 +21,7 @@ Here is our interview, I hope you enjoy!*
 
 **What was your path to getting where you are today?**
 
-My path started in art specifically.  My first interest in art was my father, I would ask him to draw  me a football, and the football would turn an arm and the arm to a player, with helmet, and  pads and cleats and running!  
+My path started in art specifically.  My first interest in art was my father.  I would ask him to draw  me a football, and the football would turn an arm and the arm to a player, with helmet, and  pads and cleats and running!  
 
 It was my first memory and means a lot to me, and the idea that from asking  for a drawing of a football came this whole story.  The idea of making something out of nothing.  From there, drawing, and painting and sculpting.  Then, I got really into pschadellic poster art, Height Ashbury San Francisco Grateful Dead posters.  
 

@@ -35,7 +35,7 @@ now that we have these tools, we’re collecting this informaton.
 
 I grew up all over the place.  I was born in Mass, where my folks met,
 and moved to the suburb of Dublin outside Columbus, OH. 
-I stayed in Ohio until graduating high school, the last few years of high school, half the day in Dublin doing pre reqs for college, and the second half of the day a fine arts high school in fort Hayes.  And then eventually moved to the west coast, San Francicso and Portland.
+I stayed in Ohio until graduating high school, the last few years of high school, half the day in Dublin doing pre reqs for college, and the second half of the day a fine arts high school in fort Hayes.  Then eventually moved to the west coast, San Francicso and Portland.
 
 **Has where you grew up influenced your art and design?**
 
@@ -58,7 +58,7 @@ Yeah, artist mentors, Zach Colburn was my buddy who introduced me to Fort Hayes,
 
 My art teachers at Ft. Hayes, Ken Valimackey and Phill Arena, incredible role models in terms of artist who had taken a professional path and were also doing great things for the community.
 
-Moving out of that space and into the digital world, Fred Knack here in Portland, he had seen me making art, drawing and painting and he said you should really pick up a computer.  He taught me a bunch of stuff about programing, at that time it was like flash and stuff like that.  I had all sorts of questions, at the time Fred was making websites for large companies.  Along the way when I wanted to figure out how to become a hacker I would call fred and ask what css and html and all this stuff is.
+Moving out of that space and into the digital world, Fred Knack here in Portland, he had seen me making art, drawing and painting and he said you should really pick up a computer.  He taught me a bunch of stuff about programing, at that time it was like flash and stuff like that.  I had all sorts of questions, at the time Fred was making websites for large companies.  Along the way when I wanted to figure out how to become a hacker I would call Fred and ask what css and html and all this stuff is.
 
 Joe Payton, Joe was someone who helped realize that, he said “if somebody made it once, than you can make it too.”  If the problem has been solved, than you can solve that problem, and same goes for making stuff.  Fabulous artist with some real programming chops.
 
@@ -69,7 +69,7 @@ one last person, was Mines Casel, he used to work for cognitect, mines was a sys
 
 **Are you creatively satisfied?**
 
-No, (laughing), thats a very simple answer.  You know there is a saying that, we can all be our owns worst critic, we always see the imperfections.  When we’re really close to whatevever we’re doing, You are in the middle of something and you sometimes have to keep going, you, you’ve invested all this time and sometimes you just have to keep going, and you can see that moment of time and the imperfection, and it happens multiple times.   There's a balance between saying it's good enough and wanting to go back and fix something, clean it up.  Then there's also, I’ve been doing this awhile and you have dreams for other projects and things you want to do.  If I ever find myself creatively satisfied, new career.
+No, (laughing), thats a very simple answer.  You know there is a saying that, we can all be our owns worst critic, we always see the imperfections.  When we’re really close to whatevever we’re doing, You are in the middle of something and you sometimes have to keep going, you, you’ve invested all this time and sometimes you just have to keep going, and you can see that moment of time and the imperfection, and it happens multiple times.  There's a balance between saying it's good enough and wanting to go back and fix something, clean it up.  Then there's also, I’ve been doing this awhile and you have dreams for other projects and things you want to do.  If I ever find myself creatively satisfied, new career.
 
 **What is good design?**
 
@@ -79,17 +79,17 @@ Good design is really the kind of thing that just lasts, and sits there and does
 
 What’s your favorite cuss word?
 
-hahaha, my favorite cuss word, you know fuck is a good one, that is a really good one, you know theres that paper about how many ways you can use the word fuck, its a noun, an adjective, an adverb, it can be a name.  You can pretty much use the word fuck in any linguistic context and it works!
+Hahaha, my favorite cuss word, you know fuck is a good one, that is a really good one.  You know there's that paper about how many ways you can use the word fuck, its a noun, an adjective, an adverb, it can be a name.  You can pretty much use the word fuck in any linguistic context and it works!
 
 **What advice do you give to someone starting out in programming?**
 
 Um, in programming, start with a problem, really understand the problem you’re trying to solve, and then look for solutions out there that might have already solved the problem.  Start by looking for a solution that already exists.  If you can, take it apart, figure out how that solution solves the problem, you could let that lead you into what language it was written in, other people in the community  working in the language.  It’s kind of like if you want to tell a story, you kind of need to have a story, you could know how to read and write or have a pen and paper. You can do pen and paper, but if you don’t have a story you’re not going to write, and I think the same rings true for programming. If you have a problem, that will lead you into solutions, technology, and people, and all the other things you need to do it. That’s number one.
 
-Then, just do it. Get in, Start somewhere, start anywhere.   Get familiar with tools that are used in programming, get familiar with a text editor, with syntax highlighting, get familiar with the terminal, browser tools, whatever, because there’s lots of different kinds of programming, maybe its programming video games, I don’t have a clue about the tools used for making video games.  There's a whole tool change for that.  Get familiar with the tools, know your problems, look for solutions, and keep going, because thats the big one, just keep going and learning.
+Then, just do it. Get in, Start somewhere, start anywhere.  Get familiar with tools that are used in programming, get familiar with a text editor, with syntax highlighting, get familiar with the terminal, browser tools, whatever, because there’s lots of different kinds of programming, maybe its programming video games, I don’t have a clue about the tools used for making video games.  There's a whole tool change for that.  Get familiar with the tools, know your problems, look for solutions, and keep going, because thats the big one, just keep going and learning.
 
 **Where do you see yourself in 10 years?**
 
-On a farm, (laughing)  I see myself out in the country, with  wicked fast internet but no cell phone reception.  I imagine a little house and a big farm, some crops I attend to certain amount of time through out the day or year, making art sometime throughout the day in that barn. Chicken and animals all that stuff, and I imagine being set up in a way that I have done enough work in design and in making products that hopefully my time can scale in those other areas.  Maybe I have made some things that kind of work on there own.  I will always make things and continue to consult and work with teams of people and i will always design things but imagine being in a very different space than I am today. that I am set up 
+On a farm, (laughing) I see myself out in the country, with  wicked fast internet but no cell phone reception.  I imagine a little house and a big farm, some crops I attend to certain amount of time through out the day or year, making art sometime throughout the day in that barn. Chicken and animals all that stuff, and I imagine being set up in a way that I have done enough work in design and in making products that hopefully my time can scale in those other areas.  Maybe I have made some things that kind of work on there own.  I will always make things and continue to consult and work with teams of people and i will always design things but imagine being in a very different space than I am today. that I am set up 
 
 -JF & MP
 

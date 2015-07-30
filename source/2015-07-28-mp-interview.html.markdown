@@ -25,9 +25,7 @@ My path started in art specifically.  My first interest in art was my father.  I
 
 It was my first memory and means a lot to me. The idea that from asking for a drawing of a football came this whole story.  The idea of making something out of nothing.  From there, drawing, and painting and sculpting.  Then, I got really into pschadellic poster art, Height Ashbury San Francisco Grateful Dead posters.  
 
-Finally, having my daughter, I needed to provide for more than just myself, there was a bigger purpose.  So, I was led to graphic design, advertising, posters, business cards etc.  I started my own business and was really busy, but around 2005, when the economy crashed, print art was slowing down, and people started asking if I could do web pages, and I said yeah, sure, and then started learning HTML and CSS and websites.  This led to making websites, and getting some design chops and ulitimately this led me to software and working with people to help solve problems
-
-different kind of task oriented problems that are of interest, a specific task where computers solve the problem.  Managing machines, email, todo list.  A number tools we use on a daily basis that we often don’t think about the design that goes in to it.
+Finally, having my daughter, I needed to provide for more than just myself, there was a bigger purpose.  So, I was led to graphic design, advertising, posters, business cards etc.  I started my own business and was really busy, but around 2005, when the economy crashed, print art was slowing down, and people started asking if I could do web pages, and I said yeah, sure, and then started learning HTML and CSS and websites.  This led to making websites, and getting some design chops and ulitimately this led me to software and working with people to help solve problems.  Different kind of task oriented problems that are of interest, a specific task where computers solve the problem.  Managing machines, email, todo list.  A number tools we use on a daily basis that we often don’t think about the design that goes in to it.
 
 Making tools to solve problems.
 Visualizing information
@@ -35,18 +33,18 @@ now that we have these tools, we’re collecting this informaton.
 
 **Where did you grow up?**
 
-I grew up all over the place, Born in Mass, where my folks met,
-moved to suburb outside columbus, OH, Dublin
-stayed in Ohio until graduating high school, last few years of high school, half the day in Dublin dong pre recs for college, and the 2nd ½ of the day a fine arts high school in fort Hayes.  And then eventually moved to the west coast, San Francicso and Portland.
+I grew up all over the place.  I was born in Mass, where my folks met,
+and moved to the suburb of Dublin outside Columbus, OH. 
+I stayed in Ohio until graduating high school, the last few years of high school, half the day in Dublin doing pre reqs for college, and the second half of the day a fine arts high school in fort Hayes.  And then eventually moved to the west coast, San Francicso and Portland.
 
 **Has where you grew up influenced your art and design?**
 
-yes, definitely for the fine arts high school, about sketch booking and the process of work,
+Yes, definitely for the fine arts high school, learning about sketch booking and the process of work.  Also
 friends being influenced with Grateful Dead music and the posters that inspired you.
 
 **Was there an aha moment when you new design and programming is what you wanted to do?**
 
-Yeah but like the biggest aha moment was, well its a little out there but it was after a Grateful Dead concert, I think sophmore year of high school, around 2 or 3 in the morning, I had a very interesting day and I was sitting there and had a moment, this realization that I am an artist, I am here to make stuff.  I looked at my buddy and told him, I’m going to be an artist for the rest of my life.  This stuck with me, and over time, there have been moments or aha of different steps and along the way and what the medium is in terms of making art.  Like learning photo shop and design tools for the visual aspect, than wanting to make things that people can touch and interact with, and so programming kind of came that way.
+Yeah but like the biggest aha moment was, well it's a little out there but it was after a Grateful Dead concert, I think sophmore year of high school, around 2 or 3 in the morning, I had a very interesting day and I was sitting there and had a moment, this realization that I am an artist, I am here to make stuff.  I looked at my buddy and told him, I’m going to be an artist for the rest of my life.  This stuck with me, and over time, there have been moments or aha of different steps and along the way and what the medium is in terms of making art.  Like learning photo shop and design tools for the visual aspect, than wanting to make things that people can touch and interact with, and so programming kind of came that way.
 
 **Where do you draw your inspiration?**
 

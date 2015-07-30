@@ -15,15 +15,15 @@ Grateful Dead.  Fast forward 20 years, and many travels later, our paths crossed
 a love for the Dead, but now both working professionals.* 
 
 *Michael is the Creative Director at Cognitect, a software product and consulting
-company, he is also a painter, a husband and a father.  For the past two years
+company.  He is also a painter, a husband and a father.  For the past two years
 Michael's has been my mentor in design and coding.
 Here is our interview, I hope you enjoy!*
 
 **What was your path to getting where you are today?**
 
-My path started in art specifically.  My first interest in art was my father, I would ask him to draw  me a football, and the football would turn an arm and the arm to a player, with helmet, and  pads and cleats and running!  
+My path started in art specifically.  My first interest in art was my father.  I would ask him to draw  me a football, and the football would turn an arm and the arm to a player, with helmet, and  pads and cleats and running!  
 
-It was my first memory and means a lot to me, and the idea that from asking  for a drawing of a football came this whole story.  The idea of making something out of nothing.  From there, drawing, and painting and sculpting.  Then, I got really into pschadellic poster art, Height Ashbury San Francisco Grateful Dead posters.  
+It was my first memory and means a lot to me. The idea that from asking for a drawing of a football came this whole story.  The idea of making something out of nothing.  From there, drawing, and painting and sculpting.  Then, I got really into pschadellic poster art, Height Ashbury San Francisco Grateful Dead posters.  
 
 Finally, having my daughter, I needed to provide for more than just myself, there was a bigger purpose.  So, I was led to graphic design, advertising, posters, business cards etc.  I started my own business and was really busy, but around 2005, when the economy crashed, print art was slowing down, and people started asking if I could do web pages, and I said yeah, sure, and then started learning HTML and CSS and websites.  This led to making websites, and getting some design chops and ulitimately this led me to software and working with people to help solve problems
 

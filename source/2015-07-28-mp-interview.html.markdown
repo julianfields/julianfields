@@ -21,11 +21,11 @@ Here is our interview, I hope you enjoy!*
 
 **What was your path to getting where you are today?**
 
-My path started in art specifically.  My first interest in art was my father.  I would ask him to draw  me a football, and the football would turn an arm and the arm to a player, with helmet, and  pads and cleats and running!  
+My path started in art specifically.  My first interest in art was my father.  I would ask him to draw  me a football.  The football would turn into an arm and the arm to a player, with helmet, and  pads and cleats and running!  
 
-It was my first memory and means a lot to me. The idea that from asking for a drawing of a football came this whole story.  The idea of making something out of nothing.  From there, drawing, and painting and sculpting.  Then, I got really into pschadellic poster art, Height Ashbury San Francisco Grateful Dead posters.  
+It was my first memory and means a lot to me. The idea that from asking for a drawing of a football came this whole story.  The idea of making something out of nothing.  From there, drawing, and painting and sculpting.  Then, I got really into pschadellic poster art, Height Ashbury, San Francisco, and Grateful Dead posters.  
 
-Finally, having my daughter, I needed to provide for more than just myself, there was a bigger purpose.  So, I was led to graphic design, advertising, posters, business cards etc.  I started my own business and was really busy, but around 2005, when the economy crashed, print art was slowing down, and people started asking if I could do web pages, and I said yeah, sure, and then started learning HTML and CSS and websites.  This led to making websites, and getting some design chops and ulitimately this led me to software and working with people to help solve problems.  Different kind of task oriented problems that are of interest, a specific task where computers solve the problem.  Managing machines, email, todo list.  A number tools we use on a daily basis that we often don’t think about the design that goes in to it.
+Finally, having my daughter.  I needed to provide for more than just myself, there was a bigger purpose.  So, I was led to graphic design, advertising, posters, business cards etc.  I started my own business and was really busy, but around 2005, when the economy crashed, print art was slowing down, and people started asking if I could do web pages, and I said yeah, sure, and then started learning HTML and CSS and websites.  This led to making websites, and getting some design chops and ulitimately this led me to software and working with people to help solve problems.  Different kind of task oriented problems that are of interest, a specific task where computers solve the problem.  Managing machines, email, todo list.  A number tools we use on a daily basis that we often don’t think about the design that goes in to it.
 
 Making tools to solve problems.
 Visualizing information
@@ -54,7 +54,7 @@ The other environment is the collaborative environement, and the internet gives 
 
 **Have you had any mentors?**
 
-Yeah, artist mentors, Zach Colburn was my buddy who introduced me to Fort Hayes, a great painter and tattoo artist in Columbus, Ohio. A good buddy of mine, Brendon Ward, introduced me to the really cool poster from the psychedelic 60’s scene.  Both played a huge influence as big brother figures.
+Yeah, artist mentors, Zach Colburn was my buddy who introduced me to Fort Hayes.  Zach is a great painter and tattoo artist in Columbus, Ohio. A good buddy of mine, Brendon Ward, he introduced me to the really cool poster from the psychedelic 60’s scene.  Both played a huge influence as big brother figures.
 
 My art teachers at Ft. Hayes, Ken Valimackey and Phill Arena, incredible role models in terms of artist who had taken a professional path and were also doing great things for the community.
 
@@ -77,7 +77,7 @@ Umm, something that you generally don’t think about.  I think that good design
 
 Good design is really the kind of thing that just lasts, and sits there and does its job we don’t think about it.  Bad design is the kind of thing, its not really bad design,  it's just something that could have been designed and people had good thoughts about, but things change, and time has changed an pains are felt, the context has changed.  We start to talk about it, the problem could be in the way we look at that thing.  We may point the blame, but at the time there was a reason for why things were designed, not so much good or bad, its just design.  
 
-What’s your favorite cuss word?
+**What’s your favorite cuss word?**
 
 Hahaha, my favorite cuss word, you know fuck is a good one, that is a really good one.  You know there's that paper about how many ways you can use the word fuck, its a noun, an adjective, an adverb, it can be a name.  You can pretty much use the word fuck in any linguistic context and it works!
 
